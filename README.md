@@ -7,7 +7,7 @@ Desenvolver uma API RESTful para autenticação de usuários, que permita opera�
 
 ### Como rodar a API
 
-É necessario instalar as dependências do projeto para poder utilizar. Para isso rode o seguinte comando:
+É necessário instalar as dependências do projeto para poder utilizar. Para isso rode o seguinte comando:
 
 ```bash
 npm install
@@ -55,7 +55,7 @@ Restorno:
 
 OBS: Em casos de já ouver um usuário com o mesmo email cadastrado, o cadastro não irá funcionar.
 
-### GET `/users` - Recuperar dados do usuário (Necessario de token de authenticação)
+### GET `/users` - Recuperar dados do usuário (Necessário de token de authenticação)
 
 Não necessita de corpo de requisição.
 
