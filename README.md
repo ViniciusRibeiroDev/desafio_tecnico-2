@@ -19,6 +19,12 @@ Logo após é nessessario rodar as migrações, depois de configurar o arquivo .
 npm run typeorm migration:run -- -d ./src/data-source
 ```
 
+E para usar rode o comando:
+
+```bash
+npm run dev
+```
+
 ## End Points
 
 ### POST `/users` - Criação de usuários
